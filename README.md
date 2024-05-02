@@ -10,10 +10,10 @@ RESTful API to simulate simple banking operations.
 
 ## Getting Started
 
-1. Checkout the project from GitHub
+1. Uploaded the project files to GitHub
 
 ```
-git clone https://github.com/anujdevopslearn/BankingSpringBootApplication
+git clone https://github.com/imrankh4n/BankingApplicationProject
 
 ```
 2. Enable Lombok support on your IDE
