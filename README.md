@@ -13,7 +13,10 @@ RESTful API to simulate simple banking operations.
 1. Uploaded the project files to GitHub
 
 ```
-git clone https://github.com/imrankh4n/BankingApplicationProject
+git push origin main
+
+origin	https://github.com/Imrankh4n/BankingApplicationProject (push)
+
 
 ```
 2. Enable Lombok support on your IDE
